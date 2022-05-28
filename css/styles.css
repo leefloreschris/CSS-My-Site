@@ -6,12 +6,12 @@ body {
 h1 {
   margin-top: 0;
   color: #ffffff;
-  font-family: monospace;
+  font-family: 'Leckerli One', cursive;
 }
 
 p {
   color: #ffffff;
-  font-family: monospace;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: large;
 }
 
@@ -43,4 +43,8 @@ p {
   position: absolute;
   right: 300px;
   top: 50px;
+}
+
+.web-dev {
+  font-family: monospace;
 }
