@@ -4,16 +4,18 @@ body {
 }
 
 h1 {
-  margin-top: 50px;
-  color: #ffffff;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
   font-family: 'Leckerli One', cursive;
   font-size: 5.625rem;
+  line-height: 2;
 }
 
 h2 {
-  color: #ffffff;
+  color: #66BFBF;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 2.5rem;
+  font-weight: normal;
 }
 
 .top-container {
@@ -44,4 +46,8 @@ h2 {
 
 .web-dev {
   font-family: monospace;
+}
+
+h3, a {
+  color: #11999E;
 }
